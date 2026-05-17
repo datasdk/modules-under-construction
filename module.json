@@ -1,0 +1,13 @@
+{
+    "name": "UnderConstruction",
+    "alias": "underconstruction",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UnderConstruction\\Providers\\UnderConstructionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
